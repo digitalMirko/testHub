@@ -9,6 +9,17 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet weak var OneBtn: UIButton!
+    @IBOutlet weak var TwoBtn: UIButton!
+    @IBOutlet weak var ThreeBtn: UIButton!
+    @IBOutlet weak var FourBtn: UIButton!
+    @IBOutlet weak var FiveBtn: UIButton!
+    @IBOutlet weak var SixBtn: UIButton!
+    @IBOutlet weak var SevenBtn: UIButton!
+    @IBOutlet weak var EightBtn: UIButton!
+    @IBOutlet weak var NineBtn: UIButton!
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -20,6 +31,15 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    
+    @IBAction func OneClick(sender: UIButton) {
+        
+    }
+    
+    
+    @IBAction func TwoClick(sender: UIButton) {
+        
+    }
 
 }
 
