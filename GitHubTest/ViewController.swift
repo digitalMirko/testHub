@@ -20,8 +20,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var EightBtn: UIButton!
     @IBOutlet weak var NineBtn: UIButton!
     
-    // test message for Git hub
-    
 
     override func viewDidLoad() {
         super.viewDidLoad()
