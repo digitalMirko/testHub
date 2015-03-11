@@ -10,8 +10,6 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    // testing
-    
     @IBOutlet weak var OneBtn: UIButton!
     @IBOutlet weak var TwoBtn: UIButton!
     @IBOutlet weak var ThreeBtn: UIButton!
